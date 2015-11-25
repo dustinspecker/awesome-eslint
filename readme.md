@@ -37,6 +37,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### General
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
+ - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
 
 ## License
