@@ -1,5 +1,6 @@
-Awesome ESLint
-==============
+# Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
 > A list of awesome ESLint configs, plugins, etc.
 
@@ -30,13 +31,24 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Frameworks and Libraries
 
  - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide)
+ - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
  - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
+ - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
- - [React](https://github.com/yannickcr/eslint-plugin-react) - Lintings rules for React and JSX
+ - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
+ - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
+ - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
+ - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
+ - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 
 ### General
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
+ - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
+ - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
+ - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
+ - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
+ - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
  - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
