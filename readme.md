@@ -46,7 +46,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
- -  [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
+ - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
