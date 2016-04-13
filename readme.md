@@ -31,6 +31,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Frameworks and Libraries
 
  - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide)
+ - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
  - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Lintings rules for React and JSX
