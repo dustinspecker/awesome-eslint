@@ -1,5 +1,7 @@
 # Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
+
 > A list of awesome ESLint configs, plugins, etc.
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
