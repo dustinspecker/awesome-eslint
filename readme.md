@@ -34,6 +34,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
  - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
+ - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash-specific linting rules
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Lintings rules for React and JSX
 
 ### General
