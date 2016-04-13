@@ -37,6 +37,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
  - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
+ - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Lintings rules for React and JSX
 
 ### General
