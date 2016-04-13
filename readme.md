@@ -43,6 +43,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### General
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
+ - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
  - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
