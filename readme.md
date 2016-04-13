@@ -45,6 +45,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
+ - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
