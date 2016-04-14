@@ -38,21 +38,21 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
  - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
  - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
- - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
+ - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
 
 ### General
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
- - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
+ - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
- - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
  - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
+ - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
 
 ## License
 
