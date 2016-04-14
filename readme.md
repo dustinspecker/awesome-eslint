@@ -14,6 +14,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Frameworks and Libraries](#frameworks-and-libraries)
  - [General](#general)
  - [Practices](#practices)
+ - [Style](#style)
 
 ## Configs
 
@@ -47,9 +48,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
- - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
- - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
 
 ### Practices
 
@@ -57,6 +56,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
  - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
+
+### Style
+
+ - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
+ - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
 
 ## License
 
