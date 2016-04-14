@@ -12,7 +12,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Parsers](#parsers)
 - [Plugins](#plugins)
  - [Frameworks and Libraries](#frameworks-and-libraries)
- - [Misc.](#general)
+ - [Misc.](#misc)
  - [Practices](#practices)
  - [Style](#style)
 - [Tools](#tools)
