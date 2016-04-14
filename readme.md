@@ -12,7 +12,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Parsers](#parsers)
 - [Plugins](#plugins)
  - [Frameworks and Libraries](#frameworks-and-libraries)
- - [General](#general)
+ - [Misc.](#general)
  - [Practices](#practices)
  - [Style](#style)
 
@@ -43,7 +43,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
 
-### General
+### Misc.
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
