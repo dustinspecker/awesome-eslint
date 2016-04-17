@@ -50,6 +50,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
+ - [XO](https://github.com/sindresorhus/eslint-plugin-xo) - Various useful rules
 
 ### Practices
 
