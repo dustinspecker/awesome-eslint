@@ -10,7 +10,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Table of Contents
 
-- [Tutorials](#tutorials)
 - [Configs](#configs)
 - [Parsers](#parsers)
 - [Plugins](#plugins)
@@ -19,12 +18,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Practices](#practices)
  - [Style](#style)
 - [Tools](#tools)
-
-## Tutorials
-
- - [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint
- - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics
- - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint
+- [Tutorials](#tutorials)
 
 ## Configs
 
@@ -76,6 +70,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Tools
 
  - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config
+
+## Tutorials
+
+ - [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint
+ - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics
+ - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint
 
 ## License
 
