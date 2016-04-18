@@ -38,6 +38,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide)
  - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
  - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
+ - [Flowtype](https://github.com/gajus/eslint-plugin-flowtype) – Linting rules for Flow type
  - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
