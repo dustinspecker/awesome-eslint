@@ -65,16 +65,16 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
  - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
 
-### Preconfigured Tools with ESLint Set up
-
- - [Node](https://github.com/geek/node-style) - Node.js core config.
- - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
- - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
-
 ### Style
 
  - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
+
+## Preconfigured Tools with ESLint Set up
+
+ - [Node](https://github.com/geek/node-style) - Node.js core config.
+ - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
+ - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
 
 ## Tools
 
