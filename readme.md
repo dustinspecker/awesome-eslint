@@ -17,7 +17,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Misc.](#misc)
  - [Practices](#practices)
  - [Style](#style)
-- [Preconfigured Tools with ESLint Set up)[#preconfigured-tools-with-eslint-set-up]
+- [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 
