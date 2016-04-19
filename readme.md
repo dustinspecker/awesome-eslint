@@ -46,9 +46,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
  - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
  - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
+ - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
- - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
 
 ### Misc.
 
