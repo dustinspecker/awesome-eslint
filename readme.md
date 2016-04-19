@@ -78,6 +78,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Tools
 
  - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config
+ - [eslint-cli](https://github.com/mysticatea/eslint-cli) - This is the `eslint` command that executes a local installed ESLint.
 
 ## Tutorials
 
