@@ -72,7 +72,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Preconfigured Tools with ESLint Set up
 
- - [Node](https://github.com/geek/node-style) - Node.js core config.
+ - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
  - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
  - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
 
