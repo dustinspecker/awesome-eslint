@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Google](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml)
  - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard)
  - [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO](https://github.com/sindresorhus/xo)
+ - [Shopify](https://github.com/Shopify/javascript/tree/master/packages/eslint-plugin-shopify) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript)
 
 ## Parsers
 
