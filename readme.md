@@ -45,6 +45,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
  - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
+ - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
  - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
  - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
  - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
