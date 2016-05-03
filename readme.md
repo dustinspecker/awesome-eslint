@@ -56,6 +56,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Misc.
 
  - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
+ - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
