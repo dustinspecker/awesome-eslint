@@ -73,7 +73,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Style
 
  - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your javascript files
- - [import-order](https://github.com/jfmengels/eslint-plugin-import-order) - Enforce the order of import/require statements
  - [no-empty-blocks](https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks) - Allows empty catch blocks, while disallowing other empty blocks
 
 ## Preconfigured Tools with ESLint Set up
