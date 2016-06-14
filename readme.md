@@ -60,6 +60,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
  - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
+ - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [XO](https://github.com/sindresorhus/eslint-plugin-xo) - Various useful rules
 
