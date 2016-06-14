@@ -49,7 +49,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
  - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
  - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
- - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
 
@@ -62,6 +61,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names
  - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
+ - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
  - [XO](https://github.com/sindresorhus/eslint-plugin-xo) - Various useful rules
 
 ### Practices
