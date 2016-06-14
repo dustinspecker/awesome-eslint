@@ -67,6 +67,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Practices
 
  - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
+ - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
  - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
  - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2016 and you still use loops?
