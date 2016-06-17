@@ -66,6 +66,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Practices
 
+ - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
  - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
  - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
