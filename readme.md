@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
  - [XO](https://github.com/sindresorhus/eslint-plugin-xo) - Various useful rules
+ - [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags
 
 ### Practices
 
