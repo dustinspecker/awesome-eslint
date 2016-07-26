@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files
  - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
  - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
+ - [TypeLint] (https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors
  - [XO](https://github.com/sindresorhus/eslint-plugin-xo) - Various useful rules
 
 ### Practices
