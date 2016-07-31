@@ -76,6 +76,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2016 and you still use loops?
  - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
  - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
+ - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - some good practices to prevent XSS vulnerabilities
 
 ### Style
 
