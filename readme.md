@@ -97,6 +97,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-cli](https://github.com/mysticatea/eslint-cli) - This is the `eslint` command that executes a local installed ESLint.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time
+- [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode
 
 ## Tutorials
 
