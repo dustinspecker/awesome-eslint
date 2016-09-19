@@ -53,6 +53,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
 - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
+- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS
 
 ### Misc
 
