@@ -105,6 +105,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode
+- [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint
 
 ## Tutorials
 
