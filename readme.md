@@ -61,6 +61,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Misc
 
 - [Babel](https://github.com/babel/eslint-plugin-babel) - Adds replacements for built-in rules to include Babel features
+- [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatability of APIs used ('caniuse' as an ESLint plugin)
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin
