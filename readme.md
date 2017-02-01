@@ -45,7 +45,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai
-- [Ember](https://github.com/netguru/eslint-plugin-netguru-ember) - Linting rules for Ember
+- [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
