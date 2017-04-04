@@ -28,6 +28,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Google](https://github.com/google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml)
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript)
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard)
+- [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style
 - [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO](https://github.com/sindresorhus/xo)
 
 ## Parsers
@@ -96,12 +97,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
+- [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
 
 ## Tools
 
 - [eslint-cli](https://github.com/mysticatea/eslint-cli) - This is the `eslint` command that executes a local installed ESLint.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config
+- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode
