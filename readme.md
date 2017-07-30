@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Configs
 
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript)
+- [Bunny](https://github.com/luftywiranda13/eslint-config-bunny) - Shareable config that bundles [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) and its [peerDependencies](https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb/package.json#L67-L72) in a single package
 - [Canonical](https://github.com/gajus/eslint-config-canonical) – Shareable config for [Canonical style guide](https://github.com/gajus/canonical)
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Shareable config for ESLint's default settings
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code
