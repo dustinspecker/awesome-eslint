@@ -79,6 +79,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors
 - [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc...)
+- [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins
 
 ### Practices
 
