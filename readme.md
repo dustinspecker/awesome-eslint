@@ -47,6 +47,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
+- [Jest](https://github.com/facebook/jest/tree/master/packages/eslint-plugin-jest) - Linting rules for Jest
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
