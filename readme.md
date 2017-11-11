@@ -1,4 +1,4 @@
-# Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
@@ -17,6 +17,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Style](#style)
 - [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
 - [Tools](#tools)
+- [Developing for ESLint](#developing-for-eslint)
 - [Tutorials](#tutorials)
 
 ## Configs
@@ -119,6 +120,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint
 - [esprint](https://github.com/pinterest/esprint) - Run ESLint across multiple threads
+
+## Developing for ESLint
+
+- [eslint-docs](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository
 
 ## Tutorials
 
