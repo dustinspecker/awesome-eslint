@@ -55,6 +55,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
+- [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules
 - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS
