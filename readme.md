@@ -81,6 +81,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) – Rules detecting bugs and suspicious patterns
 - [SQL](https://github.com/gajus/eslint-plugin-sql) – SQL linting rules for ESLint
 - [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors
 - [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
