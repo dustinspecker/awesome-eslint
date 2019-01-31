@@ -117,6 +117,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
 - [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
+- [Healthier](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ## Tools
 
