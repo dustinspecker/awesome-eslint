@@ -49,6 +49,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember.
+- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
@@ -75,7 +76,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
-- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+  import/export syntax, and prevent issues with misspelling of file paths and import names.
 - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
