@@ -102,6 +102,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+- [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
