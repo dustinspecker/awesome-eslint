@@ -24,7 +24,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A collection of the best lesser known eslint plugins to use alongside your main configuration
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A collection of the best lesser known eslint plugins to use alongside your main configuration.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
