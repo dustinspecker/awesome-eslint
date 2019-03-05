@@ -15,6 +15,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Misc](#misc)
   - [Practices](#practices)
   - [Style](#style)
+  - [Testing Tools](#testing-tools)
 - [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
 - [Tools](#tools)
 - [Developing for ESLint](#developing-for-eslint)
@@ -45,20 +46,15 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Frameworks and Libraries
 
 - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide).
-- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
-- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember.
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
-- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
-- [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments.
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
-- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
@@ -110,6 +106,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
+
+### Testing Tools
+- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
+- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
+- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
+- [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
+- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
 
 ## Preconfigured Tools with ESLint Set up
 
