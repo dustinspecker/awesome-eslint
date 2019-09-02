@@ -16,6 +16,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Practices](#practices)
   - [Style](#style)
   - [Testing Tools](#testing-tools)
+  - [Formatters](#formatters)
 - [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
 - [Tools](#tools)
 - [Developing for ESLint](#developing-for-eslint)
@@ -113,12 +114,19 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 
 ### Testing Tools
+
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
+
+### Formatters
+
+- [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
+- [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
+- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
 
 ## Preconfigured Tools with ESLint Set up
 
@@ -141,8 +149,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
 - [esprint](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
-- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
-- [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
 
 ## Developing for ESLint
 
