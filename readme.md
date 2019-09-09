@@ -112,6 +112,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
+- [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
