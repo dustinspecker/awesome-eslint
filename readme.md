@@ -64,6 +64,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
+- [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
 
 ### Misc
 
