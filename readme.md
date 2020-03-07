@@ -60,6 +60,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
+- [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
@@ -122,6 +123,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Style
 
+- [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/)
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
@@ -140,6 +142,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Mocha
    - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
    - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
+- [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 
 ### Formatters
