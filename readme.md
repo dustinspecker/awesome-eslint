@@ -27,6 +27,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A collection of the best lesser known eslint plugins to use alongside your main configuration.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
+- [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
@@ -86,6 +87,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
 - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown.
+- [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
@@ -107,14 +109,16 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
-
+- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queries syntax in messages
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
-- [XSS](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+- XSS
+    - [DOM APIs](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+    - [jQuery, etc.](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
 
@@ -125,10 +129,17 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Testing Tools
 
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
-- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai.
+- Chai
+    - [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect)
+    - [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
+    - [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
+    - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
+    - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
-- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
+- Mocha
+   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
+   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 
 ### Formatters
