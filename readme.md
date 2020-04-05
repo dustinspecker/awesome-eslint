@@ -114,8 +114,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 - Performance
-    - [DOM](https://github.com/amilajack/eslint-plugin-dom)
-    - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) (also with a [config](https://github.com/Raynos/eslint-config-perf-standard))
+  - [DOM](https://github.com/amilajack/eslint-plugin-dom)
+  - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) (also with a [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
