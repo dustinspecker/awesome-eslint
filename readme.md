@@ -40,6 +40,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 - [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO](https://github.com/sindresorhus/xo).
 
+## Globals
+
+- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
+- [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
+- [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
