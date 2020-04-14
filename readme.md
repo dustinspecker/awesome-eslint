@@ -9,6 +9,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Contents
 
 - [Configs](#configs)
+- [Globals](#globals)
 - [Parsers](#parsers)
 - [Plugins](#plugins)
   - [Frameworks and Libraries](#frameworks-and-libraries)
