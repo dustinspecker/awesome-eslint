@@ -126,6 +126,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) (also with a [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+- ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
