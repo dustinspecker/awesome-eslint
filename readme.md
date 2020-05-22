@@ -25,7 +25,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A collection of the best lesser known eslint plugins to use alongside your main configuration.
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main esLint configuration.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
