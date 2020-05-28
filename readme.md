@@ -27,6 +27,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main esLint configuration.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) Airbnb's ESLint config with TypeScript support.
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
