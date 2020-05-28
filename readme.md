@@ -145,7 +145,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Testing Tools
 
-- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA.
+- [AVA](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 - Chai
   - [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect)
   - [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
