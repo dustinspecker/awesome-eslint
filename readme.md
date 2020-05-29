@@ -38,7 +38,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Shopify](https://github.com/Shopify/web-foundation/blob/master/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 - [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
