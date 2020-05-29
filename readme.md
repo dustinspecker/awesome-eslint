@@ -28,7 +28,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Configs by Well-Known Companies/Organizations
 
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript).
-- [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) Airbnb's ESLint config with TypeScript support.
+- [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
