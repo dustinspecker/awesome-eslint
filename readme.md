@@ -164,6 +164,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
   - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
   - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+- [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
 - Mocha
