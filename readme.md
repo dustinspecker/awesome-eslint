@@ -135,20 +135,23 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
-- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 - Performance
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) (also with a [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
-- ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
-- [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
-- XSS
-  - [DOM APIs](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
-  - [jQuery, etc.](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+
+
+### Security
+
+- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+- [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+- ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
+- [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+- [xss](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
 
