@@ -183,6 +183,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 - [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
+- [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 
 ### Formatters
