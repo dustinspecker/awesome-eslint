@@ -174,6 +174,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
+- [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
 - [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
 - Mocha
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
