@@ -87,6 +87,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
 - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
+- [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
 - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
@@ -174,6 +175,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
 - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
+- [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
 - Mocha
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
