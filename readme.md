@@ -85,14 +85,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
-- **Lodash**
+- Lodash
   - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
   - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.  
   - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
   - [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
-- **React**
+- React
   - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
