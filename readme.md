@@ -76,8 +76,15 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
-- [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
-- [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+- React
+  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
+  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
+  - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
+  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
+  - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
+- Vue
+  - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
+  - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
 
 ### Libraries
 
@@ -92,12 +99,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
-- React
-  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
-  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
-  - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
-  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
-  - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 
 ### Misc
