@@ -12,7 +12,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Globals](#globals)
 - [Parsers](#parsers)
 - [Plugins](#plugins)
-  - [Frameworks and Libraries](#frameworks-and-libraries)
+  - [Frameworks](#frameworks)
+  - [Libraries](#libraries)
   - [Misc](#misc)
   - [Practices](#practices)
   - [Security](#security)
@@ -68,29 +69,35 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Plugins
 
-### Frameworks and Libraries
+### Frameworks
 
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember.
-- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
-- [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
-- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
-- [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
-- [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
-- [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
-- [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
-- [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
-- [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
-- [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
-- [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
-- [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
-- [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
-- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
 - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+
+### Libraries
+
+
+- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
+- [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
+- **Lodash**
+  - [Lodash](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules.
+  - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.  
+  - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) - Plugin for Lodash template/Underscore template.
+  - [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) (Used in Lodash and Underscore.js)
+- [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
+- [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
+- **React**
+  - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
+  - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
+  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
+  - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
+- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 
 ### Misc
 
