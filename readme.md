@@ -77,7 +77,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
 - React
-  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
+  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
   - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
@@ -142,7 +142,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
-- [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript..
+- [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
