@@ -17,10 +17,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
-  - [Langauges](#Langauges)
+  - [Langauges](#langauges)
   - [Libraries](#libraries)
   - [Misc](#misc)
   - [Practices](#practices)
+  - [Performance](#performance)
   - [Security](#security)
   - [Style](#style)
   - [Testing Tools](#testing-tools)
@@ -171,14 +172,15 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-- Performance
-  - [DOM](https://github.com/amilajack/eslint-plugin-dom)
-  - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) (also with a [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
+### Performance
+
+  - [DOM](https://github.com/amilajack/eslint-plugin-dom)
+  - Perf-Standard [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
 
 ### Security
 
