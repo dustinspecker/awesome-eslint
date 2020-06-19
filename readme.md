@@ -207,6 +207,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
   - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
+- [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - Jest
   - [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
@@ -218,7 +219,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 - [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
-- [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 
 ## Formatters
 
