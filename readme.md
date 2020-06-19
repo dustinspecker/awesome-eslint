@@ -25,7 +25,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Security](#security)
   - [Style](#style)
   - [Testing Tools](#testing-tools)
-  - [Formatters](#formatters)
+- [Formatters](#formatters)
 - [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
 - [Tools](#tools)
 - [Developing for ESLint](#developing-for-eslint)
@@ -219,7 +219,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
 
-### Formatters
+## Formatters
 
 - [eslint-formatter-badger](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
 - [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
