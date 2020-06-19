@@ -14,6 +14,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Plugins](#plugins)
   - [Code Quality](#code-quality)
   - [Compatablity](#compatablity)
+  - [Deprecation](#deprecation)
+  - [Embedded](#embedded)
   - [Frameworks](#frameworks)
   - [Langauges](#Langauges)
   - [Libraries](#libraries)
@@ -85,6 +87,18 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [ie11](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
+### Deprecation
+
+- [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
+- [deprecation](https://github.com/gund/eslint-plugin-deprecation) - Identifies use of
+  jsdoc `@deprecated` functions.
+- [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
+
+### Embedded
+
+- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
+- [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting for JavaScript inside of Markdown.
+
 ### Frameworks
 
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
@@ -135,12 +149,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Misc
 
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
-- [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
-- [deprecation](https://github.com/gund/eslint-plugin-deprecation) - Identifies use of
-  jsdoc `@deprecated` functions.
-- [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
-- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
-- [Markdown](https://github.com/eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
