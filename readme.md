@@ -9,8 +9,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Contents
 
 - [Configs](#configs)
-- [Globals](#globals)
-- [Parsers](#parsers)
+  - [Configs by Well-Known Companies/Organizations](#configs-by-well-known-companiesorganizations)
+  - [Prominent Configs by Developers (100 stars or so)](#prominent-configs-by-developers-100-stars-or-so)
+  - [Other Configs by Developers](#other-configs-by-developers)
+- [Preconfigured Configs with ESLint Set up](#preconfigured-configs-with-eslint-set-up)
 - [Plugins](#plugins)
   - [Code Quality](#code-quality)
   - [Compatiblity](#compatiblity)
@@ -25,8 +27,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Security](#security)
   - [Style](#style)
   - [Testing Tools](#testing-tools)
+- [Parsers](#parsers)
 - [Formatters](#formatters)
-- [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
+- [Globals](#globals)
 - [Tools](#tools)
 - [Developing for ESLint](#developing-for-eslint)
 - [Tutorials](#tutorials)
@@ -61,17 +64,15 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
-## Globals
+## Preconfigured Configs with ESLint Set up
 
-- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
-- [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
-- [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
-
-## Parsers
-
-- [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-- [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+- [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
+- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
+- [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
+- [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
+- [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
+- [Healthier](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ## Plugins
 
@@ -221,6 +222,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
+## Parsers
+
+- [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+- [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+
 ## Formatters
 
 - [eslint-formatter-badger](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
@@ -229,15 +236,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
 - [eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
 
-## Preconfigured Tools with ESLint Set up
+## Globals
 
-- [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
-- [prettier-standard](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
-- [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
-- [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-- [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
-- [Healthier](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
+- [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
+- [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## Tools
 
