@@ -17,7 +17,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
-  - [Langauges](#langauges)
+  - [Languages](#languages)
   - [Libraries](#libraries)
   - [Misc](#misc)
   - [Practices](#practices)
@@ -117,7 +117,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
 
-### Langauges
+### Languages
 
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) - Enables linting CoffeeScript files with, with optional linting rules from the Coffeelint library.
 - ES5
