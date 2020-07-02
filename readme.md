@@ -213,6 +213,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - Jest
   - [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
+  - [Enforcing consistent formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) - Formatting rules for Jest.
   - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
   - [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
 - Mocha
