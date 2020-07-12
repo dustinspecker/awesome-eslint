@@ -174,6 +174,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+- [RegExp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
