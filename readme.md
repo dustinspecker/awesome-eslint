@@ -10,8 +10,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Configs](#configs)
   - [Configs by Well-Known Companies/Organizations](#configs-by-well-known-companiesorganizations)
-  - [Prominent Configs by Developers (100 stars or so)](#prominent-configs-by-developers-100-stars-or-so)
-  - [Other Configs by Developers](#other-configs-by-developers)
+  - [Other Prominent Configs (100 stars or so)](#other-prominent-configs-100-stars-or-so)
+  - [Other Configs](#other-configs)
 - [Preconfigured Configs with ESLint Set up](#preconfigured-configs-with-eslint-set-up)
 - [Plugins](#plugins)
   - [Code Quality](#code-quality)
@@ -48,13 +48,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Shopify](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
 
-### Prominent Configs by Developers (100 stars or so)
+### Other Prominent Configs (100 stars or so)
 
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO](https://github.com/xojs/xo).
 
-### Other Configs by Developers
+### Other Configs
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main esLint configuration.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
