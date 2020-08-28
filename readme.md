@@ -18,6 +18,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Plugins](#plugins)
   - [Code Quality](#code-quality)
   - [Compatiblity](#compatiblity)
+  - [CSS in JS](#css-in-js)
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
@@ -92,6 +93,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [ie11](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
+### CSS in JS
+
+- [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+- [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin-emotion) - ESLint rules for emotion.
+- Styled Components
+  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+  - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+
 ### Deprecation
 
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
@@ -154,7 +163,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Misc
 
-- [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
