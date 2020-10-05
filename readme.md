@@ -150,7 +150,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Libraries
 
-- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
+- GraphQL
+  - [`dotansimha/graphql-eslint`](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
+  - [`apollostack/eslint-plugin-graphql`](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 - Lodash
@@ -242,6 +244,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+- [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
 ## Formatters
 
