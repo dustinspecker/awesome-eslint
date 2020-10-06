@@ -151,8 +151,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Libraries
 
 - GraphQL
-  - [`dotansimha/graphql-eslint`](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
-  - [`apollostack/eslint-plugin-graphql`](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
+  - [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
+  - [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 - Lodash
