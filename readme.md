@@ -147,6 +147,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
+- [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Libraries
 
