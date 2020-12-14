@@ -217,6 +217,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
+- [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
 ### Testing Tools
 
