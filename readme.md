@@ -96,7 +96,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### CSS in JS
 
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
-- [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin-emotion) - ESLint rules for emotion.
+- [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) - ESLint rules for emotion.
 - Styled Components
   - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
