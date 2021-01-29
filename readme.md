@@ -82,7 +82,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
-- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
+- [Radar](https://github.com/es-joy/eslint-plugin-radar) - Rules detecting bugs and suspicious patterns (Fork of SonarJS).
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns. See also a currently maintained fork, [Radar](https://github.com/es-joy/eslint-plugin-radar).
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 
 ### Compatiblity
