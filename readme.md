@@ -284,6 +284,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
 - [esprint](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
+- [generator-eslint](https://github.com/eslint/generator-eslint) - Generate ESLint
+  plugin and rules with [Yeoman](http://yeoman.io/).
 
 ## Developing for ESLint
 
