@@ -149,6 +149,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+- [HTML](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
 ### Libraries
 
