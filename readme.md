@@ -140,6 +140,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Flow
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
+- [HTML](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 - JSON
   - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
@@ -149,7 +150,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
-- [HTML](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
 ### Libraries
 
