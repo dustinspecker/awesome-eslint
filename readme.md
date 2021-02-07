@@ -54,14 +54,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Other Prominent Configs (100 stars or so)
 
-- [Auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure eslint based on your project's dependencies.
+- [Auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide](https://github.com/gajus/canonical).
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO](https://github.com/xojs/xo).
 
 ### Other Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main esLint configuration.
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 - [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
