@@ -146,6 +146,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+  - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
@@ -190,7 +191,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
-- [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data using JSON Schema Validator.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 - [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
