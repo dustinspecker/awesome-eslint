@@ -173,6 +173,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Misc
 
+- [Diff](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changes only. Also supports CI!
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
