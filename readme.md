@@ -36,6 +36,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Tools](#tools)
 - [Developing for ESLint](#developing-for-eslint)
 - [Tutorials](#tutorials)
+- [Installation and Setup](#installation-and-setup)
 
 ## Configs
 
@@ -311,3 +312,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
+
+## Installation and Setup
+
+- [Lintier](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
