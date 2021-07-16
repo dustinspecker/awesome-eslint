@@ -117,6 +117,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
+- [Custom Elements](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
@@ -177,7 +178,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+- [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
+- [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
