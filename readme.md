@@ -300,6 +300,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [generator-eslint](https://github.com/eslint/generator-eslint) - Generate ESLint
   plugin and rules with [Yeoman](http://yeoman.io/).
 - [editor-info](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
+- [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow lives in your terminal.
 
 ## Developing for ESLint
 
