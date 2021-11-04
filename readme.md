@@ -256,7 +256,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
-- [TestCafe-Community](https://github.com/testcafe-community/eslint-plugin-testcafe-community) - Fork of [Testcafe cafe](https://github.com/miherlosev/eslint-plugin-testcafe) for linting rules for TestCafe with env globals.
+- [TestCafe-Community](https://github.com/testcafe-community/eslint-plugin-testcafe-community) - TestCafe linting rules with env globals (fork from [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe)).
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## Parsers
