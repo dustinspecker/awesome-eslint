@@ -17,7 +17,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Preconfigured Configs with ESLint Set up](#preconfigured-configs-with-eslint-set-up)
 - [Plugins](#plugins)
   - [Code Quality](#code-quality)
-  - [Compatiblity](#compatiblity)
+  - [Compatibility](#compatibility)
   - [CSS in JS](#css-in-js)
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
@@ -86,7 +86,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 
-### Compatiblity
+### Compatibility
 
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 - [ecmascript-compat](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
