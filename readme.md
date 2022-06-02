@@ -119,6 +119,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Frameworks
 
+- [Angular](https://github.com/angular-eslint/angular-eslint) - Linting rules for Angular (v2+).
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
