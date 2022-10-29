@@ -313,6 +313,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Developing for ESLint
 
+- [eslint-doc-generator](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 - [eslint-docs](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
 
 ## Tutorials
