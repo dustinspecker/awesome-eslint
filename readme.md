@@ -175,6 +175,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native Node.js driver linting rules.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
+- [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) - Linting rules for Tailwind CSS classnames.
 
 ### Misc
 
