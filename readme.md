@@ -69,6 +69,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
+- [Sheriff](https://github.com/AndreaPontrandolfo/sheriff) - Comprehensive and highly opinionated Eslint configuration. Typescript oriented.
 
 ## Preconfigured Configs with ESLint Set up
 
