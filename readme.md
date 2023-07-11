@@ -319,7 +319,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Developing for ESLint
 
 - [eslint-doc-generator](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
-- [eslint-docs](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
+- [eslint-docgen](https://github.com/wikimedia/eslint-docgen) - Automatically generate ESLint plugin documentation from rule metadata and test cases.
 
 ## Tutorials
 
