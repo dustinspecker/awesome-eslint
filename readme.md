@@ -271,7 +271,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Parsers
 
-- [Babel](https://github.com/babel/babel-eslint) - Use Babel's parser for linting all Babel features.
+- [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - @babel/eslint-parser allows you to lint ALL valid Babel code with the fantastic ESLint.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
