@@ -126,7 +126,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Custom Elements](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
-- [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules.
+- [Meteor](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-plugin-meteor) - Meteor specific linting rules for ESLint.
 - React
   - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
   - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
