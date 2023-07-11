@@ -292,7 +292,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Globals
 
-- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - Expect `window` qualifier on globals that may otherwise be confusable as local variables.
+- [confusing-browser-globals](https://github.com/facebook/create-react-app/tree/main/packages/confusing-browser-globals) - A curated list of browser globals that commonly cause confusion and are not recommended to use without an explicit window. qualifier.
 - [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
