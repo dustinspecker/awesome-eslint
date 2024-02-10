@@ -87,6 +87,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
+- [eslint-plugin-maintainable](https://github.com/asmyshlyaev177/eslint-plugin-maintainable) - Plugin focused on code quality and simplicity, includes Prettier.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 - [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
