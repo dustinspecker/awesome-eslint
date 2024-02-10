@@ -70,6 +70,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 - [Sheriff](https://github.com/AndreaPontrandolfo/sheriff) - Comprehensive and highly opinionated Eslint configuration. Typescript oriented.
+- [eslint-plugin-maintainable](https://github.com/asmyshlyaev177/eslint-plugin-maintainable) - Plugin focused on code quality and simplicity, includes Prettier.
 
 ## Preconfigured Configs with ESLint Set up
 
