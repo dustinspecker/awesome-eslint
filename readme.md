@@ -59,6 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- lint disable double-link -->
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO](https://github.com/xojs/xo).
+- [Antfu Eslint Config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 ### Other Configs
 
