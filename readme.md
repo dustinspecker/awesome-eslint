@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- lint disable double-link -->
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO](https://github.com/xojs/xo).
-- [Antfu Eslint Config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+- [Antfu Eslint Config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset.
 
 ### Other Configs
 
@@ -76,7 +76,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Preconfigured Configs with ESLint Set up
 
 - [Node.js Standard Style](https://github.com/geek/node-style) - Node.js core config.
-- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 - [XO](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
@@ -276,7 +276,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Parsers
 
-- [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - @babel/eslint-parser allows you to lint ALL valid Babel code with the fantastic ESLint.
+- [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - Allows you to lint ALL valid Babel code with the fantastic ESLint.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
@@ -286,7 +286,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
-- [html](https://github.com/shuoshubao/eslint-formatter-html) - A enhanced ESLint formatter
+- [html](https://github.com/shuoshubao/eslint-formatter-html) - A enhanced ESLint formatter.
 - [badger](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
 - [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
