@@ -97,7 +97,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 - [ecmascript-compat](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
-- [es](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
+- [es-x](https://github.com/eslint-community/eslint-plugin-es-x) - Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained `eslint-plugin-es`.
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 - [ie11](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
