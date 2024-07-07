@@ -220,6 +220,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [pure](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
 - [ReDoS](https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/) - ESLint plugin for finding possible ReDoS vulnerabilities.
+- [ReDoSDetector](https://github.com/tjenkinson/eslint-plugin-redos-detector) - ESLint plugin for finding possible ReDoS vulnerabilities.
 - [RegExp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
