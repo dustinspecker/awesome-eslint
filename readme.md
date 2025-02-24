@@ -132,7 +132,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Meteor](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-plugin-meteor) - Meteor specific linting rules for ESLint.
 - React
-  - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
+  - [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
   - [React](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
