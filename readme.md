@@ -51,7 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Shopify](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Vercel](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 - [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
-- [Sonar](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules for writing clean code and catch potential security vulnerabilities, for JS and TS. Subset of rules used in SonarQube.
+- [Sonar](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Subset of JS/TS rules used in SonarQube.
 
 ### Other Prominent Configs (100 stars or so)
 
