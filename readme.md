@@ -249,7 +249,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
-- [split-and-sort-imports](https://github.com/sngn/eslint-plugin-split-and-sort-imports) - sorts imports and splits 'multiple' imports into single line imports
+- [split-and-sort-imports](https://github.com/sngn/eslint-plugin-split-and-sort-imports) - sorts imports and splits 'multiple' imports into single line imports.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 - [paths](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
