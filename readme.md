@@ -167,7 +167,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 - [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
   - [eslint-plugin-erasable-syntax-only](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
-  - [eslint-plugin-expect-type](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions
+  - [eslint-plugin-expect-type](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions.
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Libraries
