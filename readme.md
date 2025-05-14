@@ -160,11 +160,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+  - [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json): Rules for consistent, readable, and valid package.json files.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [N](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
+- [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
+  - [eslint-plugin-erasable-syntax-only](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only): Granularly enforces TypeScript's erasableSyntaxOnly flag.
+  - [eslint-plugin-expect-type](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type): Provides Twoslash, $ExpectError, and $ExpectType type assertions
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Libraries
@@ -209,7 +212,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
-- [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility. 
+- [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 <!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
@@ -286,7 +289,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Parsers
 
 - [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - Allows you to lint ALL valid Babel code with the fantastic ESLint.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+- [TypeScript](https://typescript-eslint.io/packages/parser) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
