@@ -134,6 +134,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
   - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
+  - [React Refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) - Improve HMR experience when using Vite.
 - [Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 - [Svelte](https://github.com/sveltejs/eslint-plugin-svelte) - Linting rules for Svelte v3 Components.
 - Vue
