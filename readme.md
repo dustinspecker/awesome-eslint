@@ -196,6 +196,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
 - [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
 - [@eslint-community/eslint-plugin-eslint-comments](https://github.com/eslint-community/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.). Properly maintained fork of no longer maintained `eslint-plugin-eslint-comments`.
+- [eslint-plugin-error-cause](https://github.com/Amnish04/eslint-plugin-error-cause) - A plugin to preserve original error context when re-throwing exceptions.
 - [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 - [eslint-plugin-exception-handling](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
