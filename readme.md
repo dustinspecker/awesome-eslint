@@ -324,6 +324,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [editor-info](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 - [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+- [eslint-disable-autofix](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
 
 ## Developing for ESLint
 
