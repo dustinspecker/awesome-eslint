@@ -178,6 +178,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) - Linting rules for Tailwind CSS classnames.
+- [Tailwind CSS +4](https://github.com/schoero/eslint-plugin-better-tailwindcss) - Linting rules for Tailwind CSS +4, including better practices.
 
 ### Misc
 
