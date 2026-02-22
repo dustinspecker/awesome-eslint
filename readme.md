@@ -321,6 +321,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
 - [eslint-plugin-rule-adoption](https://github.com/Jugbot/eslint-plugin-rule-adoption) - An eslint plugin for incremental rule adoption, when `--fix` and codemods don't cut it.
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
+- [ESlint Rules Index](https://eslint-rules-index.vercel.app/) - A big table of ESlint Rules to help developers find them easily.
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
 - [esprint](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
