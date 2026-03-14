@@ -200,6 +200,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [@eslint-community/eslint-plugin-eslint-comments](https://github.com/eslint-community/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.). Properly maintained fork of no longer maintained `eslint-plugin-eslint-comments`.
 - [eslint-plugin-error-cause](https://github.com/Amnish04/eslint-plugin-error-cause) - A plugin to preserve original error context when re-throwing exceptions.
 - [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
+- [eslint-plugin-hex-under](https://github.com/2nd-Labs/eslint-plugin-hex-under) - A plugin to prove that a hexadecimal number is less than a specified value.
 - [eslint-plugin-signature-design](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession. 
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 - [eslint-plugin-exception-handling](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
