@@ -89,6 +89,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 - [De Morgan](https://github.com/azat-io/eslint-plugin-de-morgan) - Transforms logical expressions in code to make them easier to understand.
 - [eslint-plugin-code-complete](https://github.com/aryelu/eslint-plugin-code-complete) - A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.
+- [eslint-plugin-ai-guard](https://github.com/YashJadhav21/eslint-plugin-ai-guard) - Detects bugs and security issues commonly introduced by AI-generated code (async misuse, empty catch, auth gaps, SQL concat, secrets).
 
 ### Compatibility
 
