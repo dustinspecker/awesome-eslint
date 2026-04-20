@@ -276,7 +276,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
   - [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) - Linting rules for Jest-DOM.
 - Vitest
-  - [ESLint Plugin Vitest](https://github.com/vitest-dev/eslint-plugin-vitest) - ESLint plugin for Vitest
+  - [ESLint Plugin Vitest](https://github.com/vitest-dev/eslint-plugin-vitest) - ESLint plugin for Vitest.
 - Mocha
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
