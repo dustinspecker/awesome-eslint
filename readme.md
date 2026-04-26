@@ -213,6 +213,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 - [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
+- [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
 - [Math](https://github.com/ota-meshi/eslint-plugin-math) - ESLint plugin related to Math object and Number.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 <!-- lint ignore awesome-spell-check -->
