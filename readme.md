@@ -82,6 +82,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
+- [@a11yfred/eslint-plugin-neighbor](https://github.com/a11yfred/neighbor) - Enforces accessibility, inclusive language, and markup best practices.
 - [depend](https://github.com/es-tooling/eslint-plugin-depend) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
