@@ -187,6 +187,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Misc
 
 - [Diff](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
+- [eslint-plugin-repo](https://github.com/Nick2bad4u/eslint-plugin-repo) - ESLint rules for repository compliance across common code hosting and deployment platforms.
 - [Misc](https://github.com/ilyub/eslint-plugin-misc) - Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
