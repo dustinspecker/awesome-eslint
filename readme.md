@@ -275,6 +275,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - Linting rules for Cypress.
+- [eslint-plugin-test-signal](https://github.com/Nick2bad4u/eslint-plugin-test-signal) - ESLint rules that flag weak tests before they become false confidence.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 - Jest
   - [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest.
