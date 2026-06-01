@@ -206,6 +206,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-plugin-hex-under](https://github.com/2nd-Labs/eslint-plugin-hex-under) - A plugin to prove that a hexadecimal number is less than a specified value.
 - [eslint-plugin-signature-design](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession. 
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+- [eslint-plugin-write-good-comments-2](https://github.com/Nick2bad4u/eslint-plugin-write-good-comments-2) - Lint source comments for prose quality, inclusive language, profanity, spelling, readability, and task hygiene.
 - [eslint-plugin-exception-handling](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
