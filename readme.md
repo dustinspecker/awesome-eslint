@@ -155,6 +155,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+  - [eslint-plugin-json-schema-validator-2](https://github.com/Nick2bad4u/eslint-plugin-json-schema-validator-2) - Validate JSON, YAML, TOML, JavaScript, and Vue custom-block data with JSON Schema.
   - [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) - Rules for consistent, readable, and valid package.json files.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [N](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
