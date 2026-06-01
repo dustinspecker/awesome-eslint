@@ -207,6 +207,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-plugin-signature-design](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession. 
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 - [eslint-plugin-exception-handling](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
+- [eslint-plugin-runtime-cleanup](https://github.com/Nick2bad4u/eslint-plugin-runtime-cleanup) - ESLint rules for requiring cleanup of runtime resources.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [mutate](https://github.com/gchumillas/eslint-plugin-mutate) - Prevent accidental parameter mutations by enforcing explicit `mut` prefix (JavaScript) or `Mut<T>` type annotation (TypeScript).
