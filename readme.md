@@ -126,6 +126,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
+- [eslint-plugin-docusaurus-2](https://github.com/Nick2bad4u/eslint-plugin-docusaurus-2) - ESLint rules for Docusaurus docs sites.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 - [Meteor](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-plugin-meteor) - Meteor specific linting rules for ESLint.
