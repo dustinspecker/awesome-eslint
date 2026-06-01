@@ -242,6 +242,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Security
 
+- [eslint-plugin-sdl-2](https://github.com/Nick2bad4u/eslint-plugin-SDL-2) - ESLint rules for SDL-focused security and platform hardening.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
