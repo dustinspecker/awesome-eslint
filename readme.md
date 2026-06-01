@@ -327,6 +327,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+- [eslint-plugin-file-progress-2](https://github.com/Nick2bad4u/eslint-plugin-file-progress-2) - Print ESLint file progress while linting.
 - [eslint-plugin-rule-adoption](https://github.com/Jugbot/eslint-plugin-rule-adoption) - An eslint plugin for incremental rule adoption, when `--fix` and codemods don't cut it.
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
 - [ESlint Rules Index](https://eslint-rules-index.vercel.app/) - A big table of ESlint Rules to help developers find them easily.
