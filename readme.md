@@ -149,6 +149,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Flow
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
+- [eslint-plugin-github-actions-2](https://github.com/Nick2bad4u/eslint-plugin-github-actions-2) - ESLint rules for GitHub Actions workflow quality, reliability, and security.
 - [HTML](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 - JSON
   - [JSON](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
