@@ -159,6 +159,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [N](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
+- [eslint-plugin-stylelint-2](https://github.com/Nick2bad4u/eslint-plugin-stylelint-2) - Run Stylelint through ESLint and add Stylelint-specific authoring rules.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 - [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
   - [eslint-plugin-erasable-syntax-only](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
