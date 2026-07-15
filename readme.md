@@ -20,6 +20,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
+  - [Internationalization](#internationalization)
   - [Languages and Environments](#languages-and-environments)
   - [Libraries](#libraries)
   - [Misc](#misc)
@@ -141,6 +142,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Vue
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+
+### Internationalization
+
+- [I18n Leak](https://github.com/Sloppy0726/eslint-plugin-i18n-leak) - Finds i18n bugs with no string literal to scan: form constraints whose validation message the browser renders in its own locale, and raw `error.message` text reaching the user.
+- [i18next](https://github.com/edvardchen/eslint-plugin-i18next) - Finds untranslated string literals in source, with `markupOnly` and `jsx-only` modes to narrow the scan.
 
 ### Languages and Environments
 
