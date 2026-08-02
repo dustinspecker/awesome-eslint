@@ -220,6 +220,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [ime-safe-form](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form) - Prevents accidental form submission during IME composition by requiring `e.isComposing` guard or form `submit` event.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+- [import-next](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next) - Drop-in replacement for `eslint-plugin-import` with a rewritten cycle detector and no config changes required.
 - [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
 - [import-boundary](https://github.com/nayounsang/eslint-plugin-import-boundary) - Enforces import boundaries from directory nesting: only a parent may import a direct child's public entry (`index`), with `rootFiles` / `sharedFiles` escapes.
 - [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
