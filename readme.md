@@ -82,6 +82,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
+- [agent-eslint-config](https://github.com/NeoLabHQ/agent-eslint-config) - Overly opinionated ESLint config for AI agents. Forces them to write low-complexity, highly readable code. Includes SonarJS, Unicorn, and 100+ rules focused on security and cognitive complexity.
 - [depend](https://github.com/es-tooling/eslint-plugin-depend) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
