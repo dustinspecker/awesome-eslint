@@ -321,6 +321,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tools
 
+- [archprint](https://github.com/Tommkruix/archprint) - Infer the architecture rules a TypeScript codebase already follows from its import graph and write them as ESLint rules, with the evidence for each.
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse) - Obtain a list of only those files which are in use based on imports and/or requires from an entry file or files; list passable to ESLint. Intended esp. for linting 3rd party dependencies.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 - [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
