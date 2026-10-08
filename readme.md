@@ -339,6 +339,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [eslint-disable-autofix](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
+- [detangle](https://github.com/debug-diary-1/detangle) - Import cycles and dependency boundary rules checked on the whole import graph, with an ESLint plugin for editor feedback.
 
 ## Developing for ESLint
 
