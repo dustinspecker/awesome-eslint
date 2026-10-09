@@ -167,6 +167,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Libraries
 
+- [Bestax](https://github.com/allxsmith/bestax/tree/main/eslint-plugin) - Linting rules for bestax-bulma, the React components for Bulma v1: helper prop values, deprecated props and inert flex props.
 - GraphQL
   - [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
   - [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
