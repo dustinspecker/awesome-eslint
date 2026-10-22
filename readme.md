@@ -167,6 +167,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Libraries
 
+- [BullMQ](https://github.com/Krrishkumar125/eslint-plugin-bullmq) - Linting rules for BullMQ production pitfalls, like missing error listeners and bad worker connections.
 - GraphQL
   - [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
   - [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
