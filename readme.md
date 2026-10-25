@@ -20,6 +20,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
+  - [Internationalization](#internationalization)
   - [Languages and Environments](#languages-and-environments)
   - [Libraries](#libraries)
   - [Misc](#misc)
@@ -82,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
+- [@a11yfred/eslint-plugin-neighbor](https://github.com/a11yfred/neighbor) - Enforces accessibility, inclusive language, and markup best practices.
 - [depend](https://github.com/es-tooling/eslint-plugin-depend) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
@@ -141,6 +143,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Vue
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+
+### Internationalization
+
+- [I18n Leak](https://github.com/Sloppy0726/eslint-plugin-i18n-leak) - Finds i18n bugs with no string literal to scan: form constraints whose validation message the browser renders in its own locale, and raw `error.message` text reaching the user.
+- [i18next](https://github.com/edvardchen/eslint-plugin-i18next) - Finds untranslated string literals in source, with `markupOnly` and `jsx-only` modes to narrow the scan.
 
 ### Languages and Environments
 
@@ -213,7 +220,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [ime-safe-form](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form) - Prevents accidental form submission during IME composition by requiring `e.isComposing` guard or form `submit` event.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+- [import-next](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next) - Drop-in replacement for `eslint-plugin-import` with a rewritten cycle detector and no config changes required.
 - [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
+- [import-boundary](https://github.com/nayounsang/eslint-plugin-import-boundary) - Enforces import boundaries from directory nesting: only a parent may import a direct child's public entry (`index`), with `rootFiles` / `sharedFiles` escapes.
 - [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
 - [Math](https://github.com/ota-meshi/eslint-plugin-math) - ESLint plugin related to Math object and Number.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
@@ -233,6 +242,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+- [eslint-plugin-intlayer](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer) - ESLint plugin for i18n purpose.
 
 ### Performance
 
@@ -246,7 +256,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 - [pg](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
+- [secure-coding](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding) - Security rules with CWE and OWASP Top 10 metadata, and machine-readable fix guidance in each message.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+- [typeorm-enterprise](https://github.com/alokraj68/eslint-plugin-typeorm-enterprise) - TypeORM security and governance: SQL injection prevention, transaction safety, and multi-tenant query guards.
 - [webhook-safety](https://github.com/Krrishkumar125/eslint-plugin-webhook-safety) - Catches unsafe Stripe webhook handlers, like unverified signatures, parsed bodies and missing dedupe.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
@@ -340,6 +352,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [eslint-disable-autofix](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
+- [quick-gate-js](https://github.com/hermes-labs-ai/quick-gate-js) - Deterministic CI quality gate that unifies ESLint, TypeScript, build, and Lighthouse checks into one fail-fast result, with bounded auto-repair and structured escalation evidence. npm: `quick-gate`.
 
 ## Developing for ESLint
 
