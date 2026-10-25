@@ -234,6 +234,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
+- [object-params](https://github.com/adelbeke/eslint-plugin-object-params) - Require a single object parameter instead of positional ones, callbacks excepted. Works with oxlint.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 - [pure](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
 - [ReDoS](https://makenowjust-labs.github.io/recheck/docs/usage/as-eslint-plugin/) - ESLint plugin for finding possible ReDoS vulnerabilities.
