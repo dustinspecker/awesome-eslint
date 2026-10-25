@@ -259,6 +259,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [secure-coding](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding) - Security rules with CWE and OWASP Top 10 metadata, and machine-readable fix guidance in each message.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [typeorm-enterprise](https://github.com/alokraj68/eslint-plugin-typeorm-enterprise) - TypeORM security and governance: SQL injection prevention, transaction safety, and multi-tenant query guards.
+- [webhook-safety](https://github.com/Krrishkumar125/eslint-plugin-webhook-safety) - Catches unsafe Stripe webhook handlers, like unverified signatures, parsed bodies and missing dedupe.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
