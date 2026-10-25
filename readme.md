@@ -190,6 +190,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) - Linting rules for Tailwind CSS classnames.
 - [Tailwind CSS v4](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+- [Tailwind CSS canonical classes](https://github.com/MaisonnatM/eslint-plugin-tailwind-canonical-classes) - Rewrites Tailwind CSS v4 classes to their canonical form (e.g. `w-[16px]` to `w-4`) in JSX, Vue and Svelte, using the Tailwind compiler.
 
 ### Misc
 
