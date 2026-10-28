@@ -247,6 +247,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Performance
 
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
+- [game-lint](https://github.com/debuffjp/game-lint) - Rules for game logic: unseeded randomness, wall-clock reads and browser timers that break replays, and allocations inside update loops. Also runs in Oxlint.
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
 - Perf-Standard [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
 
