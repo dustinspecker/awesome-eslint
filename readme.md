@@ -97,6 +97,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Compatibility
 
+- [baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - Report JavaScript features outside your Baseline target (widely available, newly available, or a given year).
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 - [ecmascript-compat](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
 - [es-x](https://github.com/eslint-community/eslint-plugin-es-x) - Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained `eslint-plugin-es`.
