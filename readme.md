@@ -277,6 +277,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Testing Tools
 
+- [AAA Pattern](https://github.com/babu-ch/aaa-lint/tree/main/packages/eslint-plugin-aaa-pattern) - Enforce Arrange-Act-Assert comments, in order, in test blocks.
 - [AVA](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 - Chai
   - [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect)
