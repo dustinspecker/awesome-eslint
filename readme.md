@@ -178,6 +178,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
   - [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [TypeGraphQL](https://github.com/borremosch/eslint-plugin-type-graphql) - Linting rules for TypeGraphQL, targeted at finding common mistakes.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch/tree/main/packages/plugin-eslint) - Linting rules for HyperFetch that catch misspelled and empty generics on `createClient` and `createRequest`.
 - [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 - Lodash
