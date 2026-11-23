@@ -248,6 +248,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
+- [oxlint-plugin-slimdeer](https://github.com/lndgalante/oxlint-plugin-slimdeer) - Flag PNG and JPEG files your code uses that could be much smaller at about the same visual quality.
 - Perf-Standard [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
 
 ### Security
